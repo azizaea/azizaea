@@ -1,0 +1,27 @@
+name: 🔄 Update README Timestamp
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Every 12 hours
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🕒 Get Current Riyadh Time & Update README
+        run: |
+          current_time=$(TZ="Asia/Riyadh" date "+%Y-%m-%d %I:%M %p KSA")
+          echo "Updating timestamp to: $current_time"
+          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED-->$current_time<!--END_LAST_UPDATED-->|" README.md
+
+      - name: ✅ Commit & Push Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git commit -am "🕒 Auto-update README timestamp"
+          git push
