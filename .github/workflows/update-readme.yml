@@ -3,7 +3,10 @@ name: 🔄 Update README Timestamp
 on:
   schedule:
     - cron: '0 */12 * * *'  # Every 12 hours
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ Needed to push commits using GITHUB_TOKEN
 
 jobs:
   update-readme:
@@ -23,5 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git commit -am "🕒 Auto-update README timestamp"
+          git add README.md
+          git commit -m "🕒 Auto-update README timestamp"
           git push
