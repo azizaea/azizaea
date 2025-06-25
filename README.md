@@ -40,6 +40,24 @@ Building an AI-driven online travel agency (OTA) from the ground up.
 
 ---
 
+### 🚧 Startup Project Progress (AI Travel Platform)
+
+| Module / Area              | Status         | Last Update | Notes |
+|----------------------------|----------------|-------------|-------|
+| ✅ Dialogflow Assistant     | Complete       | June 24     | Core intents and booking logic done |
+| 🔄 Web Frontend (UI/UX)     | In Progress    | June 25     | MVP homepage and flows being built  |
+| 🔄 Firebase Integration     | In Progress    | June 24     | Auth + database setup connected     |
+| 🟡 Hotel & Flight APIs      | Early Testing  | June 23     | Mockup APIs added for testing       |
+| 🟢 Admin Dashboard          | Planning Phase | —           | Will manage bookings + users        |
+| 🔲 Payment Gateway          | Not Started    | —           | Targeting STC Pay & Stripe          |
+| 📝 Licensing & Legal Docs   | Drafting       | June 20     | Preparing MoT files & terms         |
+| 📊 Analytics Dashboard      | Planned        | —           | GA4 + custom reports via Firebase   |
+| 🧪 Beta Launch Plan         | Planning       | —           | Early testers & marketing roadmap   |
+
+_🔐 Code is private, but roadmap is shared publicly for transparency._
+
+---
+
 ### 💻 Languages & Tools I Use
 
 <p align="center">
