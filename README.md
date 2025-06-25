@@ -56,6 +56,10 @@ Building an AI-driven online travel agency (OTA) from the ground up.
 
 _🔐 Code is private, but roadmap is shared publicly for transparency._
 
+**Legend:**
+
+✅ Complete  🔄 In Progress  🟡 Early Testing  🟢 Planning Phase  🔲 Not Started
+
 ---
 
 ### 💻 Languages & Tools I Use
