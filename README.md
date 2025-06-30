@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/abdulazizalhawsa/your-repo-name?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/abdulazizalhawsa/your-repo-name?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/abdulazizalhawsa/your-repo-name?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/azizaea/your-repo-name?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/azizaea/your-repo-name?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/azizaea/your-repo-name?style=for-the-badge" />
 </p>
 
 <br/>
@@ -31,33 +31,32 @@ Building an AI-driven online travel agency (OTA) from the ground up.
 
 ### 🛠️ What I'm Building
 
-| Project             | Description                                | Status          |
-|---------------------|--------------------------------------------|-----------------|
-| `AI OTA MVP`        | A modern, AI-powered travel platform       | 🚧 In development |
-| `Dialogflow Agent`  | Chat-based assistant for travel planning   | ✅ Core system built |
-| `Notion + SmartSuite OS` | Personal productivity system for founders | 🔁 Always evolving |
-| `Startup Tooling`   | Internal tools, automations, integrations  | 🧪 Experimental  |
+| Project                 | Description                                | Status             |
+|-------------------------|--------------------------------------------|--------------------|
+| `AI OTA MVP`            | A modern, AI-powered travel platform       | 🚧 In development  |
+| `Dialogflow Agent`      | Chat-based assistant for travel planning   | ✅ Core system built |
+| `Notion + SmartSuite OS`| Personal productivity system for founders  | 🔁 Always evolving |
+| `Startup Tooling`       | Internal tools, automations, integrations  | 🧪 Experimental     |
 
 ---
 
 ### 🚧 Startup Project Progress (AI Travel Platform)
 
-| Module / Area              | Status         | Last Update | Notes |
-|----------------------------|----------------|-------------|-------|
-| ✅ Dialogflow Assistant     | Complete       | June 24     | Core intents and booking logic done |
-| 🔄 Web Frontend (UI/UX)     | In Progress    | June 25     | MVP homepage and flows being built  |
-| 🔄 Firebase Integration     | In Progress    | June 24     | Auth + database setup connected     |
-| 🟡 Hotel & Flight APIs      | Early Testing  | June 23     | Mockup APIs added for testing       |
-| 🟢 Admin Dashboard          | Planning Phase | —           | Will manage bookings + users        |
-| 🔲 Payment Gateway          | Not Started    | —           | Targeting STC Pay & Stripe          |
-| 📝 Licensing & Legal Docs   | Drafting       | June 20     | Preparing MoT files & terms         |
-| 📊 Analytics Dashboard      | Planned        | —           | GA4 + custom reports via Firebase   |
-| 🧪 Beta Launch Plan         | Planning       | —           | Early testers & marketing roadmap   |
+| Module / Area              | Status         | Last Update | Notes                                     |
+|----------------------------|----------------|-------------|-------------------------------------------|
+| ✅ Dialogflow Assistant     | Complete       | June 24     | Core intents and booking logic done       |
+| 🔄 Web Frontend (UI/UX)     | In Progress    | June 25     | MVP homepage and flows being built        |
+| 🔄 Firebase Integration     | In Progress    | June 24     | Auth + database setup connected           |
+| 🟡 Hotel & Flight APIs      | Early Testing  | June 23     | Mockup APIs added for testing             |
+| 🟢 Admin Dashboard          | Planning Phase | —           | Will manage bookings + users              |
+| 🔲 Payment Gateway          | Not Started    | —           | Targeting STC Pay & Stripe                |
+| 📝 Licensing & Legal Docs   | Drafting       | June 20     | Preparing MoT files & terms               |
+| 📊 Analytics Dashboard      | Planned        | —           | GA4 + custom reports via Firebase         |
+| 🧪 Beta Launch Plan         | Planning       | —           | Early testers & marketing roadmap         |
 
 _🔐 Code is private, but roadmap is shared publicly for transparency._
 
 **Legend:**
-
 ✅ Complete  🔄 In Progress  🟡 Early Testing  🟢 Planning Phase  🔲 Not Started
 
 ---
@@ -78,7 +77,7 @@ _🔐 Code is private, but roadmap is shared publicly for transparency._
 ### 📫 Find me online
 
 <p align="center">
-  <a href="https://github.com/abdulazizalhawsa" target="_blank">
+  <a href="https://github.com/azizaea" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abdulazizalhawsa" target="_blank">
@@ -91,9 +90,9 @@ _🔐 Code is private, but roadmap is shared publicly for transparency._
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizalhawsa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azizaea&show_icons=true&theme=tokyonight&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizalhawsa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizaea&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,7 +101,7 @@ _🔐 Code is private, but roadmap is shared publicly for transparency._
   <em>"Start before you're ready. Iterate before you're sure. Build while you learn."</em>
   <br><br>
   <img alt="Commitment Tracker" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazizalhawsa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=azizaea&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <br><br>
-  🕒 This README was last updated on: <!--LAST_UPDATED-->2025-06-30 04:39 AM KSA<!--END_LAST_UPDATED-->
+  🕒 This README was last updated on: <!--LAST_UPDATED-->2025-06-29 03:33 PM KSA<!--END_LAST_UPDATED-->
 </p>
