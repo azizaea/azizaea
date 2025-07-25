@@ -32,9 +32,9 @@ Building an AI-driven online travel agency (OTA) from the ground up.
 ### 🛠️ What I'm Building
 
 | Project                 | Description                                | Status             |
-|-------------------------|--------------------------------------------|--------------------|
-| `AI OTA MVP`            | A modern, AI-powered travel platform       | 🚧 In development  |
-| `Dialogflow Agent`      | Chat-based assistant for travel planning   | ✅ Core system built |
+|-------------------------|--------------------------------------------|-----------------------|
+| `AI OTA MVP`            | A modern, AI-powered travel platform       | ✅ Core system built |
+| `Dialogflow Agent`      | Chat-based assistant for travel planning   | 🚧 In development |
 | `Notion + SmartSuite OS`| Personal productivity system for founders  | 🔁 Always evolving |
 | `Startup Tooling`       | Internal tools, automations, integrations  | 🧪 Experimental     |
 
